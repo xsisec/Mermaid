@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@uiw/react-md-editor": "~3.11.0",
+    "mermaid": "10.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "name": "uv6f85",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
